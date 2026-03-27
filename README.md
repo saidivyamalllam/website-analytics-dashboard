@@ -41,7 +41,7 @@ The objective was to understand how users visit the website, how they interact w
 ## Dashboard
 
 [https://lookerstudio.google.com/reporting/622991c7-b925-4d94-869f-d0e1c956e071 
-](url)
+]
 
 ## Dashboard Preview
 
@@ -49,7 +49,7 @@ The objective was to understand how users visit the website, how they interact w
 
 ## Website
 [
-https://bloomandbalance.netlify.app](url)
+https://bloomandbalance.netlify.app]
 
 
 ## Data Source
